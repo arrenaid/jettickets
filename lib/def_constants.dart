@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+const Color defBlack = Color(0xFF0C0C0C);
+const Color defGray1 = Color(0xFF1D1E20);
+const Color defGray2 = Color(0xFF2F3035);
+const Color defGrey3 = Color(0xFF2F3035);
+const Color defGrey4 = Color(0xFF3E3F43);
+const Color defGrey5 = Color(0xFF5E5F61);
+const Color defGray6 = Color(0xFF9F9F9F);
+const Color defGrey7 = Color(0xFFDBDBDB);
+const Color defBlue = Color(0xFF2261BC);
+const Color defBlueDark = Color(0xFF00427D);
+const Color defGrin = Color(0xFF3A633B);
+const Color defGrinDark = Color(0xFF1E341F);
+const Color defRed = Color(0xFFFF5E5E);
+const Color defOrange = Color(0xFFF36E36);
+const double defIconSize = 24;
+
+const String iconNaviJet = 'assets/icons/jet.svg';
+const String iconNaviHotel = 'assets/icons/hotel.svg';
+const String iconNaviMarker = 'assets/icons/marker.svg';
+const String iconNaviPeople = 'assets/icons/people.svg';
+const String iconNaviBell = 'assets/icons/bell.svg';
